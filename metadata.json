@@ -1,0 +1,6 @@
+{
+  "name": "Sky Flap 3D",
+  "description": "A vibrant, 3D animated Flappy Bird inspired game with smooth physics, particle effects, and high-score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
